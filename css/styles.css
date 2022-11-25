@@ -1,0 +1,53 @@
+body {
+  background-color: #A7D2CB;
+  text-align: center;
+  font-family: Montserrat, serif;
+}
+
+hr {
+  border-bottom-style: none;
+  border-right-style: none;
+  border-left-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 7px;
+  width: 8%;
+}
+
+.container-one {
+  padding-top: 20px;
+}
+
+.container-two {
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.job-table {
+  margin-left: 500px;
+}
+
+.container-four{
+padding-top: 10px;
+padding-bottom: 15px;
+}
+
+.container-five {
+  padding-top: 10px;
+}
+
+.skill-table {
+  margin-left: 400px;
+}
+
+h1 {
+  font-family: Sacramento, sans-serif;
+}
+
+h2 {
+  font-family: Sacramento, sans-serif;
+}
+
+h3 {
+  font-family: Sacramento, sans-serif;
+}
